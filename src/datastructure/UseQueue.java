@@ -1,6 +1,8 @@
 package datastructure;
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Iterator;import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Iterator;
 
 public class UseQueue {
@@ -12,6 +14,8 @@ public class UseQueue {
 		 * 
 		 */
 		Queue<String> queue = new LinkedList<>();
+		// Adding elements to the Queue
+
 
 		// Adding elements to the Queue
 		queue.add("First");
