@@ -313,7 +313,7 @@ test execution, flexible test configuration through annotations, and support for
 making it more suitable for complex and large-scale test suites compared to JUnit.
 
 What are the dependencies for this project?
-
+mysql and junit
 
 what is dependency injection in java?
 Dependency injection in Java is a design pattern and technique where the dependencies  that a class
